@@ -1,3 +1,32 @@
+🤖 Interview Prep Bot
+
+An intelligent bot that helps users prepare for job interviews by simulating real-world technical and behavioral interview sessions.
+🚀 Features
+
+    💬 Dynamic Q&A Sessions:
+    Offers curated questions in categories like Data Structures & Algorithms, System Design, Behavioral Interviews, and CS Fundamentals.
+
+    🧠 Answer Evaluation (optional module):
+    Uses simple NLP techniques or LLM integration to assess the quality of answers and provide feedback.
+
+    📈 Progress Tracking:
+    Logs sessions and allows users to track their progress over time.
+
+    🧰 Custom Question Sets:
+    Users can select difficulty level, topic, and interview type.
+
+    🛠️ Tech Stack:
+
+        Node.js / Python (customizable backend)
+
+        Telegram / Discord / Web-based UI (platform-dependent)
+
+        MongoDB / SQLite for storing sessions and questions
+
+        Optional: OpenAI API or HuggingFace Transformers for answer evaluation
+
+📦 Setup Instructions
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
